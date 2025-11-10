@@ -1,4 +1,4 @@
-# EXP 6 : SPEECH RECOGNITION USING SCILAB
+# EXP 6 : SIMULATION OF MULTIRATE DSP WITHOUT FUNCTION
 
 ## AIM: 
 
@@ -57,4 +57,4 @@ title('Upsampled Signal by a factor of L');
 
 ## RESULT: 
 Thus the decimation process by a factor M and interpolation process by a factor L using 
-SCILAB was IMPLENTED
+SCILAB was implented
